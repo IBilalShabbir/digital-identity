@@ -1,0 +1,37 @@
+{
+  "name": "demo-template",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "jotai": "^1.11.0",
+    "react": "^18.2.0",
+    "react-cloudinary-upload-widget": "^1.6.0",
+    "react-critical-css": "^2.1.0",
+    "react-dom": "^18.2.0",
+    "react-feather": "^2.0.10",
+    "react-helmet": "^6.1.0",
+    "react-phone-number-input": "^3.2.13",
+    "react-router-dom": "^6.4.3",
+    "react-select": "^5.6.1",
+    "react-share-social": "^0.1.55",
+    "react-webcam": "^7.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.25",
+    "@types/react-dom": "^18.0.9",
+    "@vitejs/plugin-react": "^2.2.0",
+    "sass": "^1.56.1",
+    "vite": "^3.2.4",
+    "vite-imagetools": "^4.0.11",
+    "vite-plugin-chunk-split": "^0.4.3",
+    "vite-plugin-compression": "^0.5.1",
+    "vite-plugin-imagemin": "^0.6.1",
+    "vite-plugin-webfont-dl": "^3.4.1"
+  }
+}
